@@ -2,8 +2,6 @@
 
 ---
 
-## 🌐 English Version README
-
 ```markdown
 # 📝 Tech Notes
 
